@@ -1,4 +1,4 @@
-# FinBank — Super App Tài Chính Cá Nhân
+# FinBank - Super App Tài Chính Cá Nhân
 
 ## Cấu trúc project
 
